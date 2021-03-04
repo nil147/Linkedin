@@ -59,7 +59,7 @@ function Login() {
   return (
     <div className="login">
       <img
-        src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png"
         alt="Logo"
       />
 
